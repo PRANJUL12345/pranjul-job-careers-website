@@ -24,3 +24,6 @@ Follow the prompts to authorize Replit and select your GitHub repository.
 
 
 Step 3: Add RUN command to the REPLIT : **python app.py** to the repo that we imported in Replit 
+
+Step 4: Flask Documentation 
+https://flask.palletsprojects.com/en/3.0.x/
