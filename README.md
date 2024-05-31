@@ -21,3 +21,6 @@ Link Repl to GitHub Repository:
 In your Replit project, click on the three dots in the upper right corner and select "Git".
 Click on "Connect to GitHub".
 Follow the prompts to authorize Replit and select your GitHub repository.
+
+
+Step 3: Add RUN command to the REPLIT : **python app.py** to the repo that we imported in Replit 
